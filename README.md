@@ -1,6 +1,3 @@
-Here is a **clean, professional, senior-level README.md** you can copy directly into your GitHub repo 👇
-
----
 
 # 💳 Fraud Detection System
 
