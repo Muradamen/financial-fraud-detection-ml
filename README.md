@@ -163,3 +163,10 @@ Data Scientist | AI & People Analytics
 
 This project is part of a portfolio focused on building **real-world, production-ready machine learning systems**.
 
+#machine-learning
+#fraud-detection
+#data-science
+#classification
+#imbalanced-data
+#xgboost
+#python
