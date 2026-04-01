@@ -155,8 +155,9 @@ python src/evaluate.py
 ## 👤 Author
 
 
-**Murad Amin**  🔗 [LinkedIn](https://www.linkedin.com/in/muradamin) | 🔗 [GitHub](https://github.com/Muradamen)
-Data Scientist | AI & People Analytics
+**Murad Amin** 
+🔗 [LinkedIn](https://www.linkedin.com/in/muradamin) | 🔗 [GitHub](https://github.com/Muradamen)
+**Data Scientist | AI & People Analytics**
 ---
 
 ## ⭐ Acknowledgment
